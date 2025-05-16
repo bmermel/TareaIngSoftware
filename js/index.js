@@ -1,3 +1,5 @@
+//en este archivo van las funciones y eventos que interactuan con el index html
+
 
 const dummyItem = {
 "id": 0,
